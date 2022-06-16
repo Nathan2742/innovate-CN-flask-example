@@ -1,0 +1,18 @@
+body{
+    background-color: mediumslateblue;
+}
+
+.hidden{
+    display: none;
+
+}
+
+.dark-mode{
+    background-color: darkgrey;
+    color:darkcyan;
+}
+
+.date{
+    display: flex;
+    justify-content: flex-end;
+}
